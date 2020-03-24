@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ralf Franken ralf@nowhere.com bla
 
 # THANKS
 
